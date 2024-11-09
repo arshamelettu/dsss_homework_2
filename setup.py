@@ -4,8 +4,8 @@ setup(
     name="math_quiz",
     version="1.0",
     py_modules=["math_quiz"],
-    author="Your Name",  # Replace with your name
-    author_email="your.email@example.com",  # Replace with your email
+    author="Arsha Melettu",
+    author_email="arshamelettu@gmail.com",
     description="A simple math quiz game",
     entry_points={
         "console_scripts": [
